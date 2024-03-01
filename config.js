@@ -6,15 +6,15 @@ const CONFIG = {
     Anh sẽ ngoan thật là ngoan
     Không để bé bị cu đơn nữa`,
     btnIntro: 'Oe oe oe',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    title: 'Yêu Vân Anh như iu đít <3',
+    desc: 'Iu Nhiều k kể hết',
+    btnYes: 'Hết giựn',
+    btnNo: 'Chê!',
+    question: 'Ai on li lớp du :>>>',
+    btnReply: 'Gửi cho bé <3',
+    reply: 'Bé hết giựn anh ròi ÙmÚ',
+    mess: 'Oehehe :>>',
+    messDesc: 'Tối ni rủ mọi người chơi game hé',
+    btnAccept: 'Ugoe nuôn <3',
+    messLink: 'https://www.facebook.com/messages/t/vjtcatmoi' 
 }
